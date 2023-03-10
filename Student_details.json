@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "Name": "Kaye Amor Fabre",
+            "Age": "21",
+            "Favorite_Quote": "One good deed per day"
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "2001105099@student.buksu.edu.ph"
+        }
+    ]
+}
